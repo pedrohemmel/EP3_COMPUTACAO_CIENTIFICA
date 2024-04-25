@@ -1,5 +1,5 @@
 # EP3_COMPUTACAO_CIENTIFICA
 
-Trabalhando com filas
+Simulação de filas em uma central telefônica
 
 Apresentação no youtube: https://youtu.be/YA4mA0PTvGc
