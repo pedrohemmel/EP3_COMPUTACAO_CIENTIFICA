@@ -1,4 +1,4 @@
-## Simulação de PABX (Central Telefônica em Python)
+## Simulação de PABX (Central Telefônica) em Python
 
 Simulação de filas em uma central telefônica em python.
 
